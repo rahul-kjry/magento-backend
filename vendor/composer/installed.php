@@ -74,12 +74,12 @@
             'dev_requirement' => false,
         ),
         'aws/aws-sdk-php' => array(
-            'pretty_version' => '3.311.1',
-            'version' => '3.311.1.0',
+            'pretty_version' => '3.311.2',
+            'version' => '3.311.2.0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../aws/aws-sdk-php',
             'aliases' => array(),
-            'reference' => '90218b9372469babf294f97bdd764c9d47ec8a57',
+            'reference' => '731cd73062909594c5f7443413c4c4c40ed1c25c',
             'dev_requirement' => false,
         ),
         'behat/gherkin' => array(
@@ -5004,12 +5004,12 @@
             ),
         ),
         'psy/psysh' => array(
-            'pretty_version' => 'v0.12.3',
-            'version' => '0.12.3.0',
+            'pretty_version' => 'v0.12.4',
+            'version' => '0.12.4.0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../psy/psysh',
             'aliases' => array(),
-            'reference' => 'b6b6cce7d3ee8fbf31843edce5e8f5a72eff4a73',
+            'reference' => '2fd717afa05341b4f8152547f142cd2f130f6818',
             'dev_requirement' => true,
         ),
         'ralouphie/getallheaders' => array(

@@ -378,6 +378,10 @@ return [
         'PayPal_BraintreeGiftWrapping' => 1,
         'PayPal_BraintreeGraphQl' => 1,
         'Training_Examples' => 1,
-        'Training_LayoutExample' => 1
+        'Training_HeadCssJs' => 1,
+        'Training_LayoutExample' => 1,
+        'Training_LayoutMoveExample' => 1,
+        'Training_LayoutRemoveExample' => 1,
+        'Training_WidgetExample' => 1
     ]
 ];
