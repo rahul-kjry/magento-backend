@@ -1,1 +1,0 @@
-/var/www/html/app/code/Training/HeadCssJs/view/frontend/web/js/contact.js
