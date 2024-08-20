@@ -254,12 +254,12 @@
             'dev_requirement' => false,
         ),
         'composer/class-map-generator' => array(
-            'pretty_version' => '1.3.2',
-            'version' => '1.3.2.0',
+            'pretty_version' => '1.3.3',
+            'version' => '1.3.3.0',
             'type' => 'library',
             'install_path' => __DIR__ . '/./class-map-generator',
             'aliases' => array(),
-            'reference' => 'acd227952154850d0bb7d65caa4f9edf9cd806a7',
+            'reference' => '61804f9973685ec7bead0fb7fe022825e3cd418e',
             'dev_requirement' => false,
         ),
         'composer/composer' => array(
@@ -5928,12 +5928,12 @@
             'dev_requirement' => false,
         ),
         'webonyx/graphql-php' => array(
-            'pretty_version' => 'v15.11.1',
-            'version' => '15.11.1.0',
+            'pretty_version' => 'v15.12.0',
+            'version' => '15.12.0.0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../webonyx/graphql-php',
             'aliases' => array(),
-            'reference' => 'ab4ff2719b101dc3bfc3aaaf800edc21a98c56dc',
+            'reference' => '06720d48bfa436bfe68285e4588c6f15f99f893b',
             'dev_requirement' => false,
         ),
         'weew/helpers-array' => array(
