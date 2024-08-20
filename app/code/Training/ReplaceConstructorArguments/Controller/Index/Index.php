@@ -19,7 +19,7 @@ class Index implements ActionInterface
     public function execute()
     {
         $page =  $this->pageFactory->create();
-        $page->getConfig()->getTitle()->set('Injectable and Non-Injectable Example');
+        $page->getConfig()->getTitle()->set('Replace Constructor Arguments');
         return $page;
     }
 }

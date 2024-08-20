@@ -387,8 +387,14 @@ return [
         'Training_LayoutExample' => 1,
         'Training_LayoutMoveExample' => 1,
         'Training_LayoutRemoveExample' => 1,
+        'Training_PoolPattern' => 1,
+        'Training_Preferences' => 1,
+        'Training_PreferencesExtended' => 1,
+        'Training_ProxyExample' => 1,
         'Training_ReplaceConstructorArguments' => 1,
         'Training_ViewModelExample' => 1,
+        'Training_WarehouseManagement' => 1,
+        'Training_VirtualTypeExample' => 1,
         'Training_WidgetExample' => 1
     ]
 ];
