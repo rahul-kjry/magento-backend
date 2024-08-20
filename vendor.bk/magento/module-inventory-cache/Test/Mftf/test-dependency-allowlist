@@ -1,8 +1,0 @@
-minimalProductQty
-_defaultStock
-SourceStatusOutOfStock
-SourceStatusInStock
-AdminAssignSourceToProductAndSetSourceQuantityActionGroup
-AssignWebsiteToStockActionGroup
-DisableAllSourcesActionGroup
-AdminChangeSourceStockStatusActionGroup
