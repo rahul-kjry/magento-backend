@@ -325,7 +325,7 @@ class Command
         } else {
             $statusCode = $this->execute($input, $output);
 
-            if (!\is_int($statusCode)) {
+            if (!\is_int($statusCode) && $statusCode!=null) {
                 throw new \TypeError(sprintf('Return value of "%s::execute()" must be of the type int, "%s" returned.', static::class, get_debug_type($statusCode)));
             }
         }
